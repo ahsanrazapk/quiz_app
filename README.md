@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Application Developer with Flutter Framework experience 😜</h3>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
+[![GitHub followers](https://img.shields.io/github/followers/muhammadtalhasultan?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/)][linkedin]
 
 - 🔭 &ensp;I’m currently working on Mobile Apps Development
